@@ -40,4 +40,4 @@ The database tables were created from scratch using MySQL Workbench and later pr
   
     ## Screenshot
 
-![Screenshot](BrownDashboard.jpg)
+![Screenshot](BrownDashboard.png)
