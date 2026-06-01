@@ -36,4 +36,8 @@ The database tables were created from scratch using MySQL Workbench and later pr
 
   - Import the SQL database files
   - Open the Power BI dashboard
-    
+ 
+  
+    ## Screenshot
+
+![Screenshot](BrownDashboard.jpg)
