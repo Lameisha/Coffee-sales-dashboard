@@ -31,12 +31,24 @@ The database was designed and created from scratch using MySQL Workbench. The da
 
   ## Dashboard insights
 
-  - Daily revenue trend analysis
-  - Revenue by product category
-  - Profit by product
-  - Sales by day of the week
-  - Revenue performance by weekday.
+  - Daily revenue trend analysis shown to identify peaks, decline and overall sales behavior.
+    
+  - Revenue by product category shows revenue contribution by product category
+    
+  - Profit by product ranks products by profitability
+    
+  - Sales by day of the week to compare activity across weekdays to find the busiest days
+    
+  - Revenue performance by weekday highlights the highest and lowest earning days.
  
+    ## Key insights:
+ 
+    -  Coffee contributed the highest revenue share at 37.32%
+    -  Latte was the most profitable
+    -  Tuesday and Wednesday recorded the highest revenue
+    -  Variation in sales between weekdays and weekends
+ 
+      
     ## Skills demonstrated
 
     - Database design
