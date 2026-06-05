@@ -31,9 +31,9 @@ The database was designed and created from scratch using MySQL Workbench. The da
 
   ## Dashboard insights
 
-  - Daily revenue trend analysis shown to identify peaks, decline and overall sales behavior.
+  - Daily revenue trend analysis showing peaks, decline and overall sales behavior.
     
-  - Revenue by product category shows revenue contribution by product category
+  - Revenue by product category showing contribution per category
     
   - Profit by product ranks products by profitability
     
