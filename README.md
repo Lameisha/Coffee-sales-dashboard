@@ -6,6 +6,13 @@ Coffee sales database and Power BI dashboard project developed for sales analysi
 
 The database was designed and created from scratch using MySQL Workbench. The data was then prepared for CSV file export and intergrated to Power BI to create dashboard visualization and business insights.
 
+Businesses collect large amounts of sales data every day but raw data alone provides
+less value without proper analysis.
+
+This project was built to demonstrate how a custom SQL database and Power BI dashboard can transform sales data into meaningful business insights.
+
+Raw sales data makes it difficult to identify revenue trends, profitable products and peak trading periods. This project provides a solution by presenting 
+raw sales data into interactive charts and dashboards.
 
 ## Features
 
